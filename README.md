@@ -1,4 +1,4 @@
-# Medical Personal Cost Prediction🏥💊
+# Medical Personal Cost Prediction
 Predicting medical insurance cost with the help of **Machine Learning**
 
 ## About Project:
@@ -14,7 +14,7 @@ Predicting medical insurance cost with the help of **Machine Learning**
  1. Created a function which takes data as a input and return basic characteristics of the data
  2. Visualized the data as we knew the distribution of the data is helpful for better understanding.
  3. Visualzed the correlation between data, charges distribution of depend on smokers/non-smokers, sex, age, and BMI
- 4. This is a regression problem so I took 3 ML algos: **Linear Regression** , **Random Forest Regressor** and **XBoost Regressor**.
+ 4. This is a regression problem so I took 3 ML algorithms: **Linear Regression** , **Random Forest Regressor** and **XBoost Regressor**.
  5. Choosing right parameters will increase model's accuracy, so tunning models by hyperparameter tunning techniques those are: **GridSearchCV** and **RandomizedSearchCV**
  6. Trained all 3 models and choosed the best one with good score.
  7. Evaluated that selected model and Visualized the Accuracy.
